@@ -1,0 +1,18 @@
+{
+  "name": "beataeest",
+  "version": "1.0.0",
+  "license": "WTFPL",
+  "description": "Clamps (ie. cuts off) an HTML element's content by adding ellipsis to it if the content inside is too long.",
+  "author": "DarrinOrtiz",
+  "keywords": [
+    "numquam",
+    "ellipsis",
+    "sint",
+    "browser"
+  ],
+  "main": "clamp.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RusselYost/beataeest.git"
+  }
+}
